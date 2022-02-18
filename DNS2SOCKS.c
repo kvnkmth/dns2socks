@@ -17,7 +17,7 @@
 //9050 for default SOCKS5 port
 #define DEFAULT_SOCKS_PORT "9050"
 //213.73.91.35 for default DNS server supporting TCP (dnscache.berlin.ccc.de)
-#define DEFAULT_DNS_SERVER "213.73.91.35"
+#define DEFAULT_DNS_SERVER "8.8.8.8"
 //127.0.0.1 for local IP address for listening
 #define DEFAULT_LISTEN_IP "127.0.0.1"
 //53 for default DNS port
